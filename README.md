@@ -32,6 +32,7 @@ with open(fname,'r')as f:
 print('Number of words: ',num_words)    
 ```
 ### OUTPUT:
+![image](https://github.com/22009011/Word-count/assets/118343461/c4b41a27-5d80-475c-8505-134ce61ef126)
 
 
 
